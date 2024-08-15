@@ -18,3 +18,12 @@
 * Customers with partners tend to retain services for longer tenures. This gradually increases over time.
 * Customers with dependents are very likely to be retained. This is due to various services like Streaming TV, etc.
 
+------------------------------------------------------------
+
+* labelled: city, gender, senior citizen, partner, dependents, phone service, multiple lines, internet service, onine security, online backup, device protection,tech support,
+streamnig tv,
+steaming movies, contract, paperless billing, payment method, churn level. churn reason
+
+
+* to DROP: city, zip code, latitude, longitude, 
+gender,
